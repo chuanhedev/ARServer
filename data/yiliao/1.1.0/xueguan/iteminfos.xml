@@ -1,0 +1,27 @@
+<items>
+	<item id="jingmai" type="object" prefab="xueguan">
+		<togglebutton id="jingmai" label="jingmai" show="true" action="showhide"/>
+		<togglebutton id="dongmai" label="dongmai" show="false" action="showhide"/>
+	</item>
+	<item id="heart_movie" type="video" videosrc="heart.mp4" scalez="0.6" scalex="0.9"/>
+	<item id="heart_model_vessel" type="object" prefab="heart" scalez="0.8" scaley="0.8" scalex="0.8"/>
+	<item id="dongmai" type="object" prefab="xueguan">
+		<togglebutton id="jingmai" label="jingmai" show="false" action="showhide"/>
+		<togglebutton id="dongmai" label="dongmai" show="true" action="showhide"/>
+	</item>
+	<item id="xueguan22" type="video" videosrc="xueguan22.mp4" scalez="0.6" scalex="0.8"/>
+	<item id="xueguan23" type="video" videosrc="xueguan23.mp4" scalez="0.6" scalex="0.9"/>
+
+	<item id="zdml1" type="video" videosrc="zdml1.mp4" ratio="1" showbg="true" title="不同部位的主动脉瘤"/>
+	<item id="zdml2" type="video" videosrc="zdml2.mp4" ratio="1.6" showbg="true" title="主动脉瘤破裂大出血"/>
+	<item id="zdml3" type="object" prefab="zdml3" upEnabled="0" rightEnabled="1" title="真性动脉瘤" />
+	<item id="zdml4" type="video" videosrc="zdml4.mp4" ratio="1.6" showbg="true" title="主动脉瘤的相关特征"/>
+	<item id="zdml5" type="object" prefab="zdml5" scalez="1" scaley="1" scalex="1" upEnabled="0" rightEnabled="1" tilte="CT三维重建模型" fullscreenScale="0.5">
+		<togglebutton id="bone" label="guge" show="false" action="showhide"/>
+		<togglebutton id="blood" label="xueguan2" show="true" action="showhide"/>
+	</item>
+	<item id="zdml6" type="video" videosrc="zdml6.mp4" ratio="1.6" showbg="true" title="传统主动脉瘤手术过程"/>
+	<item id="zdml7" type="video" videosrc="zdml7.mp4" ratio="1.6" showbg="true" title="移植物介绍"/>
+	<item id="zdml8" type="video" videosrc="zdml8.mp4" ratio="1.6" showbg="true" title="腔内隔绝术的技术原理"/>
+	<item id="zdml9" type="video" videosrc="zdml9.mp4" ratio="1.6" showbg="true" title="术前术中术后DSA"/>
+</items>

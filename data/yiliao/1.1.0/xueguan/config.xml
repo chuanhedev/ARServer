@@ -1,0 +1,34 @@
+<config version="1.1.1" preversion="">
+  <update size="2">
+    <path size="0.4">xueguan/xueguan.dat</path>
+    <path size="0.01">xueguan/xueguan.xml</path>
+    <path size="0.01">xueguan/iteminfos.xml</path>
+    <path size="0.01">xueguan/subtitle/zdml3.xml</path>
+    <path size="5.3">xueguan/{%platform%}/xueguan2.dlc</path>
+    <path size="6.71">xueguan/zdml1.mp4</path>
+    <path size="3.53">xueguan/zdml2.mp4</path>
+    <path size="1.61">xueguan/zdml4.mp4</path>
+    <path size="6.46">xueguan/zdml6.mp4</path>
+    <path size="10.33">xueguan/zdml7.mp4</path>
+    <path size="11.01">xueguan/zdml8.mp4</path>
+    <path size="6.75">xueguan/zdml9.mp4</path>
+  </update>
+  <all size="2">
+    <path size="0.4">xueguan/xueguan.dat</path>
+    <path size="0.01">xueguan/xueguan.xml</path>
+    <path size="0.01">xueguan/iteminfos.xml</path>
+    <path size="0.01">xueguan/subtitle/zdml3.xml</path>
+    <!-- <path size="7.9">xueguan/heart.mp4</path>
+    <path size="1.6">xueguan/xueguan22.mp4</path>
+    <path size="2.7">xueguan/xueguan23.mp4</path>
+    <path size="6.5">xueguan/{%platform%}/xueguan.dlc</path> -->
+    <path size="5.3">xueguan/{%platform%}/xueguan2.dlc</path>
+    <path size="6.71">xueguan/zdml1.mp4</path>
+    <path size="3.53">xueguan/zdml2.mp4</path>
+    <path size="1.61">xueguan/zdml4.mp4</path>
+    <path size="6.46">xueguan/zdml6.mp4</path>
+    <path size="10.33">xueguan/zdml7.mp4</path>
+    <path size="11.01">xueguan/zdml8.mp4</path>
+    <path size="6.75">xueguan/zdml9.mp4</path>
+  </all>
+</config>
