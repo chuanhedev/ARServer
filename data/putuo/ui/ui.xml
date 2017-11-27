@@ -1,0 +1,20 @@
+<ui>
+	<items>
+		<item title="item1" desc="item1_desc" help="/guide/putuo" icon="icon1.png">
+			<trackings>
+				<path src="putuo.xml"/>
+			</trackings>
+			<assetbundles>
+				<path src="putuo.dlc"/>
+			</assetbundles>
+		</item>
+		<item title="itemmap" desc="itemmap_desc" help="/guide/putuo" icon="icon2.png" type="map">
+			<trackings>
+				<path src="map.xml"/>
+			</trackings>
+			<assetbundles>
+				<path src="map.dlc"/>
+			</assetbundles>
+		</item>
+	</items>
+</ui>

@@ -1,0 +1,10 @@
+<config version="1.0.0" preversion="">
+  <update>
+  </update>
+  <all size="1">
+    <path size="0.03">guanyin/guanyin.dat</path>
+    <path size="0.01">guanyin/guanyin.xml</path>
+    <path size="1.01">guanyin/dabeizhou.mp3</path>
+    <path size="0.01">guanyin/iteminfos.xml</path>
+  </all>
+</config>

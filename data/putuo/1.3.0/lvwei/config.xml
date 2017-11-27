@@ -1,0 +1,18 @@
+<config version="1.0.2" preversion="">
+  <update>
+  </update>
+  <all size="1">
+    <path size="0.15">lvwei/{%platform%}/lvwei.dlc</path>
+    <path size="0.03">lvwei/lvwei.dat</path>
+    <path size="0.01">lvwei/lvwei.xml</path>
+    <path size="0.01">lvwei/1.mp3</path>
+    <path size="0.01">lvwei/2.mp3</path>
+    <path size="0.01">lvwei/3.mp3</path>
+    <path size="0.01">lvwei/4.mp3</path>
+    <path size="0.01">lvwei/iteminfos.xml</path>
+    <path size="0.01">lvwei/subtitle/1.xml</path>
+    <path size="0.01">lvwei/subtitle/2.xml</path>
+    <path size="0.01">lvwei/subtitle/3.xml</path>
+    <path size="0.01">lvwei/subtitle/4.xml</path>
+  </all>
+</config>

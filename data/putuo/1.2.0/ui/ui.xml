@@ -1,0 +1,20 @@
+<ui>
+	<items>
+		<item title="item1" desc="item1_desc" help="/guide/putuo" icon="icon1.png">
+			<trackings>
+				<path src="putuo.xml"/>
+			</trackings>
+			<assetbundles>
+				<path src="putuo.dlc"/>
+			</assetbundles>
+		</item>
+		<item title="lvwei" desc="lvwei_desc" help="/guide/lvwei" icon="icon1.png" next="LvweiScan">
+			<trackings>
+				<path src="lvwei.xml"/>
+			</trackings>
+			<assetbundles>
+				<path src="lvwei.dlc"/>
+			</assetbundles>
+		</item>
+	</items>
+</ui>

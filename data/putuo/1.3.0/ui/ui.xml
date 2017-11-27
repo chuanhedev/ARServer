@@ -1,0 +1,35 @@
+<ui>
+	<items>
+		<!-- <item title="item1_title" desc="item1_desc" help="/guide/putuo" icon="icon1.png" size="full" state="active">
+			<trackings>
+				<path src="putuo.xml"/>
+			</trackings>
+			<assetbundles>
+				<path src="putuo.dlc"/>
+			</assetbundles>
+		</item> -->
+		<item title="item1_title" id="guanyin" desc="item1_desc" help="/guide/putuo" next="Guanyin" icon="icon1.png" size="full" state="active">
+			<trackings>
+				<path src="guanyin.xml"/>
+			</trackings>
+			<assetbundles>
+			</assetbundles>
+		</item>
+		<item title="item2_title" desc="item2_desc" help="/guide/lvwei" icon="icon2.png" next="LvweiScan" size="half" state="pending">
+			<trackings>
+				<path src="lvwei.xml"/>
+			</trackings>
+			<assetbundles>
+				<path src="lvwei.dlc"/>
+			</assetbundles>
+		</item>
+		<item title="item3_title" desc="item3_desc" help="/guide/lvwei" icon="icon3.png" next="LvweiScan" size="half" state="pending">
+			<trackings>
+				<path src="lvwei.xml"/>
+			</trackings>
+			<assetbundles>
+				<path src="lvwei.dlc"/>
+			</assetbundles>
+		</item>
+	</items>
+</ui>

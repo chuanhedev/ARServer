@@ -1,0 +1,10 @@
+<config version="1.0.3" preversion="">
+  <update>
+  </update>
+  <all size="1">
+    <path size="0.15">itemmap/{%platform%}/map.dlc</path>
+    <path size="0.03">itemmap/map.dat</path>
+    <path size="0.01">itemmap/map.xml</path>
+    <path size="0.01">itemmap/iteminfos.xml</path>
+  </all>
+</config>
