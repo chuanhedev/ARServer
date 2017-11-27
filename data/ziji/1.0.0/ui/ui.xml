@@ -1,0 +1,28 @@
+<ui>
+	<items>
+		<item title="item1_title" subtitle="item1_sub" desc="item1_desc" help="/guide/item1" icon="ui/icon1.png">
+			<trackings>
+				<path src="putuo.xml"/>
+			</trackings>
+			<assetbundles>
+				<path src="putuo.dlc"/>
+			</assetbundles>
+		</item>
+		<item title="item2_title" subtitle="item2_sub" desc="item2_desc" help="/guide/item1" icon="ui/icon2.png">
+			<trackings>
+				<path src="map.xml"/>
+			</trackings>
+			<assetbundles>
+				<path src="map.dlc"/>
+			</assetbundles>
+		</item>
+		<item title="item3_title" subtitle="item3_sub" desc="item3_desc" help="/guide/item1" icon="ui/icon3.png">
+			<trackings>
+				<path src="map.xml"/>
+			</trackings>
+			<assetbundles>
+				<path src="map.dlc"/>
+			</assetbundles>
+		</item>
+	</items>
+</ui>
