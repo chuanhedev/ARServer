@@ -1,0 +1,13 @@
+<templates>
+  <template id="template1" x="55" y="44" src="template1.png">
+    <label value="template1"/>
+    <layer>
+      <img src="{%src%}" x="{%x%}" y="{%y%}"/>
+    </layer>
+    <img src="template1.png"/>
+  </template>
+  <template id="myTemplate" x="100">
+    <label id="label" value="myTemplate"></label>
+    <img src="myTemplate.png" x="{%x%}"/>
+  </template>
+</templates>

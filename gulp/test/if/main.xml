@@ -1,0 +1,22 @@
+<app>
+  <scenes>
+    <label id="common1"/>
+    <if name="lang" value="en">
+      <label id="en"/>
+      <if name="lang" value="cs">
+        <label id="cs"/>
+      </if>
+      <text id="en"/>
+    </if>
+    <if name="lang" value="cs">
+      <label id="cs"> cs </label>
+    </if>
+    <if name="lang" in="cs,en">
+      <label>cs or en</label>
+    </if>
+    <if name="lang" in="cs,jp">
+      <label value="cs or jp"/>
+    </if>
+    <label id="common2"/>
+  </scenes>
+</app>

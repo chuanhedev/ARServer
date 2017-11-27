@@ -1,0 +1,15 @@
+<app>
+  <scenes>
+    <label id="common1"/>
+    <img id="bg"/>
+    <label id="label" value="myTemplate"/><img src="myTemplate.png" x="100"/>
+    <label value="template1"/><layer>
+      <img src="customized.png" x="1111" y="44"/>
+    </layer><img src="template1.png"/>
+    <label id="label" value="myTemplate"/><img src="myTemplate.png" x="0"/>
+    <layer>
+      <lable value="template2"/><img src="template2.png"/>
+      <lable value="template2"/><img src="template2.png"/>
+    </layer>
+  </scenes>
+</app>

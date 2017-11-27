@@ -1,0 +1,14 @@
+<scene id="id" otherProps="otherProps">
+  <view>
+    <!--<placeholder id="myPlaceHolder1"></placeholder>
+    <include ref="./tasks/test/hud.xml"></include>
+    <label>Setting Scene</label>
+    <placeholder id="myPlaceHolder2"></placeholder>-->
+    <include ref="./component.xml">
+      <placeholder id="sub2">
+        <replacer id="sub2.." >sub2 in SettingScene</replacer>
+        <replacer2  id="sub3">sub2 in SettingScene</replacer2>
+      </placeholder>
+    </include>
+  </view>
+</scene>

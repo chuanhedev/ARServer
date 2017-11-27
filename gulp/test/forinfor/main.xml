@@ -1,0 +1,22 @@
+<app>
+  <scenes>
+    <for from="1" to="3" step="1" id="1">
+      <content>
+        <label id="{%index1%}">Outer Loop {%index%}</label>
+        <for from="1" to="3" step="1" id="2">
+          <content>
+            <label id="{%index%}">Outer Loop {%index1%} Inner Loop {%index%}</label>
+          </content>
+          <arguments> 
+            <argument id="default" x="100" y="10"/>
+            <argument id="2" x="99" y="99"/>
+          </arguments>
+        </for>
+      </content>
+      <arguments> 
+        <argument id="default" x="100" y="10"/>
+        <argument id="9" x="99" y="99"/>
+      </arguments>
+    </for>
+  </scenes>
+</app>

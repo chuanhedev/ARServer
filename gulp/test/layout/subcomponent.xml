@@ -1,0 +1,8 @@
+<subcomponent>
+  <placeholder id="sub1"/>
+  <subcomponentcontent/>
+  <placeholder id="sub2"/>
+  <placeholder id="sub3">
+    <sub3default/>
+  </placeholder>
+</subcomponent>

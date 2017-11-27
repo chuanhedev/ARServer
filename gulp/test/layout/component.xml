@@ -1,0 +1,20 @@
+<component>
+  <label>this is my component</label>
+  <label>component</label>
+  <include ref="./subcomponent.xml">
+    <placeholder id="sub1">
+      <replacer id="sub1">sub1 in component</replacer>
+    </placeholder>
+  </include>
+  <for from="1" to="10" step="1">
+    <content>
+      <label id="{%index%}">component{%index%}</label>
+      <label id="{%index%}" x="{%x%}" y="{%y%}"/>
+    </content>
+    <arguments> 
+      <argument id="default" x="100" y="10"/>
+      <argument id="9" x="99" y="99"/>
+      <argument id="8" x="88" y="88"/>
+    </arguments>
+  </for>
+</component>

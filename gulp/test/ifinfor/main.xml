@@ -1,0 +1,21 @@
+<app>
+  <scenes>
+    <for from="1" to="3" step="1" id="1">
+      <content>
+        <for from="1" to="2" step="1">
+          <content>
+            <label>Outer Loop {%index1%} Inner Loop {%index%}</label>
+            <if name="{%index%}" value="2" valueonly="1">
+              <if name="{%index1%}" value="1" valueonly="1">
+                <label>only show in outer = 1 inner = 2</label>
+              </if>
+              <if name="{%index1%}" in="2,3" valueonly="1">
+                <label>only show in outer 2,3 inner = 2</label>
+              </if>
+            </if>
+          </content>
+        </for>
+      </content>
+    </for>
+  </scenes>
+</app>

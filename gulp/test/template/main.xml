@@ -1,0 +1,13 @@
+<app>
+  <scenes>
+    <label id="common1"/>
+    <img id="bg"/>
+    <template ref="./template1.xml" id="myTemplate"/>
+    <template ref="./template1.xml" id="template1" x="1111" src="customized.png"/>
+    <template ref="./template1.xml" id="myTemplate" x="0"/>
+    <layer>
+      <template ref="./folder/template2.xml" id="template2"/>
+      <template ref="../template2.xml" id="template2"/>
+    </layer>
+  </scenes>
+</app>

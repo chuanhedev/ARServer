@@ -1,0 +1,10 @@
+<app>
+  <scenes>
+    <label id="common1"/>
+    <label id="en"/><text id="en"/>
+    
+    <label>cs or en</label>
+    
+    <label id="common2"/>
+  </scenes>
+</app>

@@ -1,0 +1,6 @@
+<templates>
+  <template id="template2">
+    <lable value="template2"/>
+    <img src="template2.png"/>
+  </template>
+</templates>

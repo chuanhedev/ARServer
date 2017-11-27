@@ -1,0 +1,13 @@
+<app>
+  <scenes>
+    <include ref="./settingScene.xml" id="settings1" otherProps="I Am Settings Scene" />
+    <!--<include ref="./tasks/test/settingScene.xml" id="settings2" otherProps="I Am Another Settings Scene">
+      <placeholder id="myPlaceHolder1">
+        <label>111111</label>
+      </placeholder>
+      <placeholder id="myPlaceHolder2">
+        <label>222222</label>
+      </placeholder>
+    </include>-->
+  </scenes>
+</app>

@@ -1,0 +1,20 @@
+{
+  "prod": {
+    "mobile": "/RSlot Mobile",
+    "web": "/RSlot",
+    "host": "192.168.77.51"
+  },
+  "uat": {
+    "mobile": "/X/IIS/Data/RSlot/Mobile",
+    "web": "/X/IIS/Data/RSlot/Frontend",
+    "host": "192.168.86.41"
+  },
+  "staging": {
+    "mobile": "/RSlotMobileStaging",
+    "web": "/RSlotStaging",
+    "host": "192.168.77.51"
+  },
+  "gameIDAlias": {
+    "4beauties": "fourbeauties"
+  }
+}

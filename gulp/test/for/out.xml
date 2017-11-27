@@ -1,0 +1,5 @@
+<app>
+  <scenes>
+    <label id="1">component1</label><label id="1" x="100" y="10"/><label id="2">component2</label><label id="2" x="100" y="10"/><label id="3">component3</label><label id="3" x="100" y="10"/><label id="4">component4</label><label id="4" x="100" y="10"/><label id="5">component5</label><label id="5" x="100" y="10"/><label id="6">component6</label><label id="6" x="100" y="10"/><label id="7">component7</label><label id="7" x="100" y="10"/><label id="8">component8</label><label id="8" x="88" y="88"/><label id="9">component9</label><label id="9" x="99" y="99"/><label id="10">component10</label><label id="10" x="100" y="10"/>
+  </scenes>
+</app>
