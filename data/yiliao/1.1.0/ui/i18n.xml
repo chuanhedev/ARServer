@@ -7,10 +7,10 @@
 		<item key="select_title1" value="扫一扫"></item>
 		<item key="select_title2" value="联系我们"></item>
 		<item key="select_cooperate" value="商务合作"></item>
-		<item key="select_phone" value="电话:0571-86660008"></item>
-		<item key="select_email" value="邮箱:hezuo@iyoovr.com"></item>
+		<item key="select_phone" value="0571-86660008"></item>
+		<item key="select_email" value="hezuo@iyoovr.com"></item>
 		<item key="wutian" value="武 田 中 国"></item>
-		<item key="xueguan_title" value="血 管 医 疗"></item>
+		<item key="xueguan" value="血 管 医 疗"></item>
 		<item key="wutian_desc" value="请扫描武田中国&quot;亚宁定&quot;系列DA"></item>
 		<item key="xueguan_desc" value=""></item>
 		<item key="wutian_target" value="武田中国&quot;亚宁定&quot;系列DA"></item>

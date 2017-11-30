@@ -18,10 +18,8 @@
     <path size="0.01">xueguan/xueguan.xml</path>
     <path size="0.01">xueguan/iteminfos.xml</path>
     <path size="0.01">xueguan/subtitle/zdml3.xml</path>
-    <!-- <path size="7.9">xueguan/heart.mp4</path>
-    <path size="1.6">xueguan/xueguan22.mp4</path>
-    <path size="2.7">xueguan/xueguan23.mp4</path>
-    <path size="6.5">xueguan/{%platform%}/xueguan.dlc</path> -->
+    <path size="7.9">xueguan/heart.mp4</path>
+    <path size="6.5">xueguan/{%platform%}/xueguan.dlc</path>
     <path size="5.3">xueguan/{%platform%}/xueguan2.dlc</path>
     <path size="6.71">xueguan/zdml1.mp4</path>
     <path size="3.53">xueguan/zdml2.mp4</path>
